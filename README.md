@@ -6,7 +6,7 @@ This project uses Qiskit, IBM's open-source framework for quantum computing, to 
 
 Here's what we can interpret from the chart:
 
-R_star (Rate of star formation): This value is just under 10^1 (10), which matches the hypothetical value of 1.5 given in the example code. It suggests a moderate rate of star formation in our galaxy.
+R_star (Rate of star formation): This value is just under 10^1 (10), which matches the hypothetical value of 1.5 . It suggests a moderate rate of star formation in our galaxy.
 
 f_p (Fraction with planetary systems): This is set at 0.5, meaning half of the stars formed are expected to have planetary systems.
 
@@ -14,7 +14,7 @@ n_e (Number of suitable planets per system): This value is at 2, suggesting that
 
 f_l (Fraction where life actually appears): Set to 1, indicating the assumption that life will appear on all planets that can support it.
 
-f_i (Fraction where intelligent life develops): This factor appears to be slightly above 10^-1 (0.1), indicating the quantum computation may have increased the factor by 0.05 as per the example code's adjustment mechanism.
+f_i (Fraction where intelligent life develops): This factor appears to be slightly above 10^-1 (0.1), indicating the quantum computation may have increased the factor by 0.05 as per the example  adjustment mechanism.
 
 f_c (Fraction with communicative civilizations): This value is the same as f_i, showing the assumption that about 10% of intelligent life forms will develop detectable communication.
 
