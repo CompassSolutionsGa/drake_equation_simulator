@@ -7,7 +7,7 @@ This project uses Qiskit, IBM's open-source framework for quantum computing, to 
 ## Overview
 The script will output a histogram representing the probability distribution of each simulated factor of the Drake Equation. An even distribution of measurement results indicates equal probabilities for each factor in our simplified model.
 
-[![Quantum Drake Equation Simulator](/images/video-thumbnail.png)](https://youtu.be/MUtYHr4X3Wg) "Quantum Drake Equation Simulator Using Qiskit")
+[![Quantum Drake Equation Simulator](/images/video-thumbnail.png)](https://youtu.be/XvL6VwTK_fU) "Quantum Drake Equation Simulator Using Qiskit")
 
 The purpose of this simulation is to provide an educational tool to demonstrate the application of quantum superposition and measurement in modeling probabilistic systems, using the Drake Equation as a thematic example.
 
