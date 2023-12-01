@@ -4,6 +4,22 @@
 
 This project uses Qiskit, IBM's open-source framework for quantum computing, to simulate the probabilistic factors of the Drake Equation. The Drake Equation is a famous formula used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy.
 
+Here's what we can interpret from the chart:
+
+R_star (Rate of star formation): This value is just under 10^1 (10), which matches the hypothetical value of 1.5 given in the example code. It suggests a moderate rate of star formation in our galaxy.
+
+f_p (Fraction with planetary systems): This is set at 0.5, meaning half of the stars formed are expected to have planetary systems.
+
+n_e (Number of suitable planets per system): This value is at 2, suggesting that on average, there are two planets capable of supporting life for every star with planets.
+
+f_l (Fraction where life actually appears): Set to 1, indicating the assumption that life will appear on all planets that can support it.
+
+f_i (Fraction where intelligent life develops): This factor appears to be slightly above 10^-1 (0.1), indicating the quantum computation may have increased the factor by 0.05 as per the example code's adjustment mechanism.
+
+f_c (Fraction with communicative civilizations): This value is the same as f_i, showing the assumption that about 10% of intelligent life forms will develop detectable communication.
+
+L (Length of time civilizations release detectable signals): This value is significantly higher than the others, set at 10^4 (10,000), representing the number of years a civilization might release detectable signals.
+
 ## Overview
 
 The script will output a histogram representing the probability distribution of each simulated factor of the Drake Equation. An even distribution of measurement results indicates equal probabilities for each factor in our simplified model.
