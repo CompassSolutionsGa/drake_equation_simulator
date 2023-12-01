@@ -46,8 +46,6 @@ Make your changes.
 Commit your updates (git commit -am 'Add some feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
-##License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Acknowledgments
 This project was inspired by the concepts of the Fermi Paradox and the Drake Equation.
