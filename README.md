@@ -1,3 +1,5 @@
+![Alt text](/images/Figure_1.png)
+
 # Quantum Drake Equation Simulator
 
 This project uses Qiskit, IBM's open-source framework for quantum computing, to simulate the probabilistic factors of the Drake Equation. The Drake Equation is a famous formula used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy.
