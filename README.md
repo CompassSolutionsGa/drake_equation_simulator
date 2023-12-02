@@ -1,5 +1,5 @@
 
-#This is stupid.There is no reason to solve the Drake equation with a quantum computer. A $5 calculator can tell you everything you would like to know about it. If you want a distribution put in a range of values for each variable.
+# This is stupid.There is no reason to solve the Drake equation with a quantum computer. A $5 calculator can tell you everything you would like to know about it. If you want a distribution put in a range of values for each variable.
 
 ![Alt text](/images/Figure_1.png)
 # Quantum Drake Equation Simulator Using Qiskit
